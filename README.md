@@ -12,7 +12,7 @@ Informative website for a local small business coffee company
 
 ## Click link below to visit deployed application
 
-# [![Watch the video](https://raw.githubusercontent.com/vanessabau/identitycoffees/master/public/images/identitypng%20-%201.png)](https://identitycoffees.herokuapp.com/)
+# [![Watch the video](https://raw.githubusercontent.com/vanessabau/identitycoffees/master/public/images/identitypng%20-%201.png)](https://identity-coffee.vercel.app/)
 
 ## TABLE OF CONTENTS
 
@@ -29,7 +29,7 @@ Informative website for a local small business coffee company
 
 ### Links
 
-https://identitycoffees.herokuapp.com/
+https://identity-coffee.vercel.app/
 
 ### Technologies
 
