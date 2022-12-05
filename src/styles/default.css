@@ -1,0 +1,119 @@
+body {
+    font-family: Montserrat;
+    background-color: rgb(26, 26, 26);
+}
+.navbar {
+    margin-bottom: 0;
+}
+#navbar {
+    background-color: black;
+    font-size: small;
+    letter-spacing: 0.2em;
+}
+#main-container-row {
+    margin-top: 25px;
+}
+#main-container {
+    border: 3px solid #edcd92;
+    padding: 50px;
+    overflow: hidden;
+}
+.logo-div {
+    margin-bottom: 75px;
+}
+h1 {
+    color: white;
+    font-size: 5rem;
+    font-family: Miriam Libre;
+    text-align: center;
+}
+h3 {
+    color: #edcd92;
+    text-align: center;
+    font-family: Raleway;
+    letter-spacing: 0.5em;
+    font-weight: 700;
+}
+h5 {
+    width: 100%;
+    text-align: center;
+}
+h6 {
+    font-weight: 700 !important;
+}
+
+#banner {
+    color: white;
+}
+.page-footer {
+    color: #edcd92;
+    font-size: 14px;
+}
+#copyright-link {
+    color: #edcd92;
+}
+
+/* Logo Media Queries */
+
+@media screen and (max-width: 374px) {
+    #main-container {
+        padding: 10px;
+    }
+    .logo-div {
+        margin-bottom: 0px;
+    }
+    #logo-identity {
+        font-size: 35px;
+    }
+    #logo-coffees {
+        font-size: 20px;
+        margin-bottom: 20px;
+    }
+}
+
+@media screen and (min-width: 375px) {
+    #main-container {
+        padding: 10px;
+    }
+    .logo-div {
+        margin-bottom: 0px;
+    }
+    #logo-identity {
+        font-size: 35px;
+    }
+    #logo-coffees {
+        font-size: 20px;
+        margin-bottom: 20px;
+    }
+}
+
+@media screen and (min-width: 550px) {
+    #main-container {
+        padding: 25px;
+    }
+    .logo-div {
+        margin-bottom: 40px;
+    }
+    #logo-identity {
+        font-size: 60px;
+    }
+    #logo-coffees {
+        font-size: 30px;
+        margin-bottom: 25px;
+    }
+}
+@media screen and (min-width: 900px) {
+    #main-container {
+        padding: 25px;
+    }
+    .logo-div {
+        margin-bottom: 40px;
+    }
+    #logo-identity {
+        font-size: 80px;
+    }
+    #logo-coffees {
+        font-size: 30px;
+        margin-bottom: 25px;
+    }
+}
